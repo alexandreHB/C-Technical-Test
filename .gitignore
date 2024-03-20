@@ -1,0 +1,26 @@
+# Ignorer les fichiers générés par CMake
+*.cmake
+CMakeFiles/
+CMakeCache.txt
+
+# Ignorer les fichiers binaires et exécutables
+*.o
+*.out
+*.exe
+
+# Ignorer les fichiers de build
+build/
+
+
+# Ignorer les fichiers de configuration système
+*.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers temporaires
+*~
+
+# Ignorer les fichiers de sauvegarde des éditeurs de texte
+*.swp
+
+
+.vscode
